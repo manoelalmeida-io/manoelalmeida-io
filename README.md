@@ -1,3 +1,5 @@
+![1637676675005](https://user-images.githubusercontent.com/53584776/222942742-87571e60-5cd6-454a-ac29-55a4dc771327.jpg)
+
 ## Hello there! 👋
 
 Olá, sou desenvolvedor backend 💻 e líder pedagógico 🎓 na [SPTech](https://www.sptech.school/)
@@ -20,10 +22,10 @@ ___
 
 ### Status
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=manoelalmeida-io&theme=transparent&show_icons=true&hide_border=true&card_width=500)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=manoelalmeida-io&theme=transparent&show_icons=true&hide_border=true&card_width=350)
 [![GitHub Streak](https://streak-stats.demolab.com?user=manoelalmeida-io&hide_border=true&theme=transparent)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelalmeida-io&theme=transparent&layout=compact&show_icons=true&hide_border=true&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelalmeida-io&theme=transparent&layout=compact&show_icons=true&hide_border=true&card_width=350)
 
 
 
