@@ -22,10 +22,7 @@ ___
 
 ### Status
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=manoelalmeida-io&theme=transparent&show_icons=true&hide_border=true&card_width=250)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelalmeida-io&theme=transparent&layout=compact&show_icons=true&hide_border=true&card_width=250)
 [![GitHub Streak](https://streak-stats.demolab.com?user=manoelalmeida-io&hide_border=true&theme=transparent)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelalmeida-io&theme=transparent&layout=compact&show_icons=true&hide_border=true&card_width=400)
-
-
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=manoelalmeida-io&theme=transparent&show_icons=true&hide_border=true&card_width=250)
