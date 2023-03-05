@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hello there! 👋
 
-<!--
-**manoelalmeida-io/manoelalmeida-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou desenvolvedor backend 💻 e líder pedagógico 🎓 na [SPTech](https://www.sptech.school/)
 
-Here are some ideas to get you started:
+### Sobre
+🌎 Brasileiro\
+🎵 Músico | 🎸 🎷\
+🐧 Usuário Linux\
+🎓 Análise e Desenvolvimento de Sistemas ([SPTech](https://www.sptech.school/))\
+🏢 Desenvolvedor backend na [SPTech Consulting](https://github.com/BandTec/)\
+🌱 Estudando e aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ferramentas 🧰
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,js,ts,react,git,mysql,docker,linux)](https://skillicons.dev)
+
+Entre outras...
+
+___
+
+### Status
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=manoelalmeida-io&theme=transparent&show_icons=true&hide_border=true&card_width=500)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manoelalmeida-io&hide_border=true&theme=transparent)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelalmeida-io&theme=transparent&layout=compact&show_icons=true&hide_border=true&card_width=500)
+
+
+
