@@ -12,9 +12,17 @@ Olá, sou desenvolvedor backend 💻 e líder pedagógico 🎓 na [SPTech](https
 🏢 Desenvolvedor backend na [SPTech Consulting](https://github.com/BandTec/)\
 🌱 Estudando e aprendendo
 
+### Skills
+🧮 Desenvolvimento de REST APIs com Spring\
+🧫 Arquitetura de microserviços\
+🧪 Testes unitários automatizados\
+🎲 Banco de dados relacional\
+🌐 Aplicações Web Frontend com React e Angular\
+📱 Aplicações Mobile nativas para Android
+
 ### Ferramentas 🧰
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,js,ts,react,git,mysql,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,js,ts,react,angular,git,mysql,docker,linux)](https://skillicons.dev)
 
 Entre outras...
 
