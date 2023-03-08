@@ -9,6 +9,7 @@ Olá, sou desenvolvedor backend 💻 e líder pedagógico 🎓 na [SPTech](https
 🎵 Músico | 🎸 🎷\
 🐧 Usuário Linux\
 🎓 Análise e Desenvolvimento de Sistemas ([SPTech](https://www.sptech.school/))\
+🎓 Pós Graduação - Liderança e Gestão de Tecnologia ([SPTech](https://www.sptech.school/))\
 🏢 Desenvolvedor backend na [SPTech Consulting](https://github.com/BandTec/)\
 🌱 Estudando e aprendendo
 
